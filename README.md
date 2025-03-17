@@ -1,3 +1,3 @@
 # PYTHON PROBLEMS
 
-- These are several programming challenges I completed in Python during one of my academic semesters.
+- These are several programming problems as an introduction which I completed in Python during one of my academic semesters.
